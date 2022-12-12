@@ -1,0 +1,5 @@
+/Users/albertselev/Projects/asasasas/asasasas/obj/Debug/net7.0/asasasas.csproj.AssemblyReference.cache
+/Users/albertselev/Projects/asasasas/asasasas/obj/Debug/net7.0/asasasas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/albertselev/Projects/asasasas/asasasas/obj/Debug/net7.0/asasasas.AssemblyInfoInputs.cache
+/Users/albertselev/Projects/asasasas/asasasas/obj/Debug/net7.0/asasasas.AssemblyInfo.cs
+/Users/albertselev/Projects/asasasas/asasasas/obj/Debug/net7.0/asasasas.csproj.CoreCompileInputs.cache
